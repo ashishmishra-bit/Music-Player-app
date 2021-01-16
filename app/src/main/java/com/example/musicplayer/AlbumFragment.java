@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 
 /**
  * A simple {@link Fragment} subclass.
- * Use the {@link AlbumFragment#newInstance} factory method to
+ *
  * create an instance of this fragment.
  */
 public class AlbumFragment extends Fragment {
